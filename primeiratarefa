@@ -1,0 +1,68 @@
+PS C:\Users\MIY Improve\OneDrive\Área de Trabalho\jornadadev> npx create-react-app .
+
+Creating a new React app in C:\Users\MIY Improve\OneDrive\Área de Trabalho\jornadadev.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts with cra-template...
+
+
+added 1423 packages in 6m
+
+233 packages are looking for funding
+  run `npm fund` for details
+
+Initialized a git repository.
+
+Installing template dependencies using npm...
+
+added 62 packages, and changed 1 package in 28s
+
+233 packages are looking for funding
+  run `npm fund` for details
+Removing template package using npm...
+
+
+removed 1 package, and audited 1485 packages in 5s
+
+233 packages are looking for funding
+  run `npm fund` for details
+
+6 high severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+Created git commit.
+
+Success! Created jornadadev at C:\Users\MIY Improve\OneDrive\Área de Trabalho\jornadadev
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+Compiled successfully!
+
+You can now view jornadadev in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.0.239:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+
+
